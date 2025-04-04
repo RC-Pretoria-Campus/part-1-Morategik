@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3BrOvh6LfOg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\VoiceActivity\\VoiceActivity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
